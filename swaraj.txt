@@ -1,6 +1,16 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 new text file by swarajmehta
 
 =======
 new text file by rahul
 >>>>>>> 62354178b26aa44f342317905ba6cd3b88cc22b0
+=======
+new text file by dildara
+
+=======
+
+new text file by rahul
+>>>>>>> 5132f18f2b11fb661226220800e8c62379d1dbe4
+
+>>>>>>> 0b4f33596d313ce57666b6df5fd4a7fbc391f20c
