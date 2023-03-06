@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 new text file by dildara
 
+=======
+
+new text file by rahul
+>>>>>>> 5132f18f2b11fb661226220800e8c62379d1dbe4
 
