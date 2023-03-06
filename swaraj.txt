@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 new text file by swarajmehta
 
+=======
+new text file by rahul
+>>>>>>> 62354178b26aa44f342317905ba6cd3b88cc22b0
